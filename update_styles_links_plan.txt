@@ -1,0 +1,23 @@
+### Plan:
+1. **Files to be Updated**:
+   - **admin_dashboard.php**: Change the link from `href="style.css"` to `href="styles.css"`.
+   - **student_dashboard.php**: Change the link from `href="assets/style.css"` to `href="styles.css"`.
+   - **teacher_dashboard.php**: Change the link from `href="assets/style.css"` to `href="styles.css"`.
+   - **view_results.php**: Change the link from `href="assets/style.css"` to `href="styles.css"`.
+   - **exam_schedule.php**: Change the link from `href="style.css"` to `href="styles.css"`.
+   - **register.php**: Change the link from `href="assets/style.css"` to `href="styles.css"`.
+   - **login.php**: Change the link from `href="assets/style.css"` to `href="styles.css"`.
+   - **manage_students.php**: Change the link from `href="assets/style.css"` to `href="styles.css"`.
+   - **upload_results.php**: Change the link from `href="assets/style.css"` to `href="styles.css"`.
+   - **feedback.php**: Change the link from `href="assets/style.css"` to `href="styles.css"`.
+   - **notifications.php**: Change the link from `href="assets/style.css"` to `href="styles.css"`.
+   - **upload_question.php**: Change the link from `href="assets/style.css"` to `href="styles.css"`.
+
+2. **Execution Steps**:
+   - Read each of the identified files to confirm the current link structure.
+   - Replace the incorrect stylesheet links with the correct path to `styles.css`.
+   - Save the changes to each file.
+
+3. **Follow-up Steps**:
+   - Verify that the changes have been applied correctly.
+   - Test the application to ensure that the styles are being applied as expected.
